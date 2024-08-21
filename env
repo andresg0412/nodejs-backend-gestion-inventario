@@ -1,0 +1,8 @@
+DB_NAME=db_prueba_magic
+DB_USER=root
+DB_PASSWORD=XhF293MuLdQbAnPIZMCtM6wrihZzowLz
+DB_HOST=dpg-cr0k673tq21c73chou7g-a.oregon-postgres.render.com
+DB_PORT=5432
+
+
+JWT_SECRET=DkRYBtGCPWQrv/fK8MEmqzuwHF3JhpaUT5d2V6j9
